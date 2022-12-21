@@ -1,0 +1,3 @@
+1. All java file shall be compiled 
+2. For DriverProgramm executable file, it shall be executed with "log.txt" as an argument.
+	Ex: java DriverProgram log.txt 
